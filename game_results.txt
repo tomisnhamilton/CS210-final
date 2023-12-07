@@ -1,0 +1,150 @@
+Tic-Tac-Ception Game Results:
+
+Number of players: 1
+
+The current board is 5
+Player 1's move: 1 1
+
+The current board is 5
+Player 2's move: 0 0
+
+The current board is 1
+Player 1's move: 0 0
+
+The current board is 1
+Player 2's move: 1 1
+
+The current board is 5
+Player 1's move: 2 0
+
+The current board is 3
+Player 2's move: 0 0
+
+The current board is 1
+Player 1's move: 0 2
+
+The current board is 7
+Player 2's move: 0 0
+
+The current board is 1
+Player 1's move: 0 1
+
+Player 1 has won board 1.
+
+The current board is 4
+Player 2's move: 0 0
+
+The current board is 4
+Player 1's move: 1 0
+
+The current board is 2
+Player 2's move: 0 0
+
+The current board is 2
+Player 1's move: 1 1
+
+The current board is 5
+Player 2's move: 1 0
+
+The current board is 2
+Player 1's move: 2 0
+
+The current board is 3
+Player 2's move: 0 2
+
+The current board is 7
+Player 1's move: 0 2
+
+The current board is 7
+Player 2's move: 1 0
+
+The current board is 2
+Player 1's move: 0 2
+
+Player 1 has won board 2.
+
+The current board is 7
+Player 2's move: 1 2
+
+The current board is 8
+Player 1's move: 1 1
+
+The current board is 5
+Player 2's move: 0 2
+
+The current board is 7
+Player 1's move: 1 1
+
+The current board is 5
+Player 2's move: 1 2
+
+The current board is 8
+Player 1's move: 0 0
+
+The current board is 8
+Player 2's move: 0 2
+
+The current board is 7
+Player 1's move: 2 0
+
+Player 1 has won board 7.
+
+The current board is 3
+Player 2's move: 2 0
+
+The current board is 3
+Player 1's move: 1 0
+
+The current board is 3
+Player 2's move: 1 2
+
+The current board is 8
+Player 1's move: 2 2
+
+Player 1 has won board 8.
+
+The current board is 9
+Player 2's move: 0 0
+
+The current board is 9
+Player 1's move: 1 1
+
+The current board is 5
+Player 2's move: 2 1
+
+The current board is 6
+Player 1's move: 0 2
+
+The current board is 6
+Player 2's move: 0 0
+
+The current board is 6
+Player 1's move: 1 1
+
+The current board is 5
+Player 2's move: 2 2
+
+Player 2 has won board 5.
+
+The current board is 9
+Player 1's move: 2 0
+
+The current board is 3
+Player 2's move: 2 1
+
+The current board is 6
+Player 1's move: 2 0
+
+Player 1 has won board 6.
+
+The current board is 3
+Player 2's move: 2 2
+
+Player 2 has won board 3.
+
+The current board is 9
+Player 1's move: 0 2
+
+Player 1 has won board 9.
+
+Player 1 has won this game.

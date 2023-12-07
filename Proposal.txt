@@ -1,0 +1,85 @@
+===========================================================================
+- CS210 FINAL PROJECT PROPOSAL, Fall 2023
+===========================================================================
+- Tic-Tac-Ception
+- Name: C3C Tomis N. Hamilton
+- Section: M6
+- Documentation Statement: I discussed my idea with Dr. Bouvier, in which, he suggested using the Curses Library for graphics. 
+===========================================================================
+
+OVERVIEW:
+This is where you will write a brief description of your project.  You do not need to write a lot, but you do need to provide enough detail for your instructor to get a good understanding of what you would like to do.
+
+   My project is based off of "Ultimate Tic-Tac-Toe", in which, a normal Tic-Tac-Toe board is set, 
+   but where players would put 'x's and 'o's, another Tic-Tac-Toe board is set.
+
+      Tic-Tac-Toe within Tic-Tac-Toe!
+
+   Players would play within these "sub-boards" to win a spot on the main board.
+   A deviation is that wherever players place their mark correlates to next sub-board that will be played.
+      If a player plays in the top-left of the center sub-board, 
+      then the next move will have to be in the top-left sub-board.
+
+   All other rules are the same as normal Tic-Tac-Toe.
+
+===========================================================================
+
+INTERFACE MECHANISM:
+How will users interact with your program?  Is it with Curses, command line, etc?
+
+   I plan to use Curses for this program, as recommended by Dr. Bouvier. 
+   This is contingent on further discussion and actual implementation.
+
+===========================================================================
+
+Required Programming Skills (must have 5 of 6):
+   -- Leave blank if you aren't planning on implementing.
+   1) Pointer use with dynamic memory (malloc and free)
+	How are you going to meet this req:
+      I can implement dynamic memory by allocating the proper memory for the Tic-Tac-Toe board and sub-boards
+      and freeing after the game ends. I can also use this functionality to pause and resume the game at a later time.
+
+   2) Pointers as a key component of a data structure
+	How are you going to meet this req:
+      Pointers can be used to assign sub-board positions and keep track of their state without static variable overhead.
+
+   3) File I/O
+	How are you going to meet this req:
+      File I/O can be used in writing out game records for review of player and AI behavior.
+
+   4) Structs
+	How are you going to meet this req:
+      A struct of the main board can be created to encapsulate the sub-boards within. 
+      This would also allow for pointers to be used to locate sub-board position and state.
+
+   5) String manipulation
+	How are you going to meet this req:
+
+   6) Processing of array data
+	How are you going to meet this req:
+      Array data will be processed to analyze the state of sub-boards to detect which player has won on a certain board (3 in a row),
+      and will be used to declare game winners and losers (and possibly ties).
+
+Required Advanced Programming Skills (1 of the below):
+   -- Leave blank if you aren't planning on implementing.
+   1) Recursion
+	How are you going to meet this req:
+
+   2) 2D Dynamic Memory
+	How are you going to meet this req:
+
+   *** Abandoned ***
+   I plan on implementing 2D Dynamic Memory via the sub-boards as explained within the description.
+   Since, the main board will be contingent on the sub-boards, I can make an array of pointers (the main board)
+   that points to another array (the sub-boards).
+
+   3) Linked List (or some other advanced data structure)
+	How are you going to meet this req:
+
+   4) A GUI (xwindows for Ubuntu)
+	How are you going to meet this req:
+
+      I plan to use the ncurses library for GUI functionality and handling user input during the game.
+
+   5) Some other advanced skill (approve with your instructor)
+	How are you going to meet this req:

@@ -1,0 +1,15 @@
+No cadets or faculty were consulted for assistance with this project.
+
+I reviewed AngusG's tictactoe-ncurses-reinforcement-learning repository for the following:
+LINK: https://github.com/AngusG/tictactoe-ncurses-reinforcement-learning
+
+1. Making a game board with ncurses:
+    Within the drawBoard() function of the tictactoefunctions.c file
+
+2. Handling player movement:
+    Lines 89-119 of the tictactoefunctions.c file
+
+3. Checking for a win:
+    Within the checkWin() function of the tictactoefunctions.c file
+
+No other non-course material was reviewed.
